@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+      <class name="AirAsia.AirAsiaLearning.AirAsiaRegistration">
+        <test-method status="PASS" signature="Reg_Address()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaRegistration@1786dec2]" name="Reg_Address" duration-ms="1" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg_Address -->
+        <test-method status="PASS" signature="Reg_Contact()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaRegistration@1786dec2]" name="Reg_Contact" duration-ms="1" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg_Contact -->
+        <test-method status="PASS" signature="Reg_Details()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaRegistration@1786dec2]" name="Reg_Details" duration-ms="0" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg_Details -->
+      </class> <!-- AirAsia.AirAsiaLearning.AirAsiaRegistration -->
+      <class name="AirAsia.AirAsiaLearning.AirAsiaLoginTest">
+        <test-method status="PASS" signature="Submit()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaLoginTest@3b088d51]" name="Submit" duration-ms="7" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+        <test-method status="PASS" signature="loginid()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaLoginTest@3b088d51]" name="loginid" duration-ms="0" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginid -->
+        <test-method status="PASS" signature="password()[pri:0, instance:AirAsia.AirAsiaLearning.AirAsiaLoginTest@3b088d51]" name="password" duration-ms="1" started-at="2020-11-10T21:39:06 IST" finished-at="2020-11-10T21:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+      </class> <!-- AirAsia.AirAsiaLearning.AirAsiaLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
